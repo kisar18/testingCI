@@ -1,0 +1,26 @@
+{
+  "cypress\\e2e\\spec.cy.js": {
+    "template spec -> passes": [
+      {
+        "type": "cy:command",
+        "message": "visit\thttps://example.cypress.io",
+        "severity": "success"
+      },
+      {
+        "type": "cy:command",
+        "message": "contains\tKitchen Sink",
+        "severity": "success"
+      },
+      {
+        "type": "cy:command",
+        "message": "debug\t",
+        "severity": "success"
+      },
+      {
+        "type": "cy:command",
+        "message": "assert\texpected **<h1>** to exist in the DOM\nActual: \t\"<h1>\"\nExpected: \t\"<h1>\"",
+        "severity": "success"
+      }
+    ]
+  }
+}

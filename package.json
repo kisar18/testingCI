@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^14.2.1",
+    "cypress-terminal-report": "^7.1.0"
+  }
+}
